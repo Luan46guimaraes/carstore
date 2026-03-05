@@ -3,6 +3,7 @@
     <title>Car Store - Cadastro</title>
 </head>
 <body>
+<h1>Menu</h1>
 <h2>Cadastrar Novo Carro</h2>
 
 <form action="create-car" method="post">
